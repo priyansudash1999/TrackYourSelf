@@ -112,6 +112,6 @@ When user open the app for the first time he has to signup to create his account
 | Frontend Design       |  5th - 7th week  |
 | Backend Design        | 8th - 10th week  |
 | Testing               | 11th - 12th week |
-| Working if errors     | 13th - 14th week |
+| If errors             | 13th - 14th week |
 | Deployment            | 15th - 16th week |
 | Launch                |    17th week     |
