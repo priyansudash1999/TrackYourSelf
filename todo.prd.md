@@ -1,7 +1,6 @@
-# Making PRD of todo app
+# Making PRD of To-do app
 
-App name:- TrackYourSelf
-Author :- Priyansu Dash
+> App name:- **TrackYourSelf**
 
 ## Objective
 
@@ -71,6 +70,7 @@ When user open the app for the first time he has to signup to create his account
 
 ### Login page
 
+- A motivational line displays before login that is Are you happy with your bank balance ?
 - User can login using email and password.
 - User can login using phone number and password.
 - User can login using google.
@@ -94,6 +94,9 @@ When user open the app for the first time he has to signup to create his account
 - User can see total number of uncompleted task out of total number of tasks in the body.
 - User can delete all todos at a time by clicking on delete all button.
 - User can mark all todos completed at a time by clicking on mark all completed button.(for basic users only)
+- When the user clicks on "New Task," a form pops up containing a date field, a time frame selector, and an input field to create a new task.
+- When the user clicks on "Edit Task," the same form pops up, but instead of the "Add" button, an "Update" button is displayed.
+- There is also a section for default tasks. If the user wants to add a default task, they can click on it, and the same form pops up. This form is pre-filled with the date, but users can apply their own time frame, and input values from the selected default task, allowing the user to either keep or modify these values before adding the task.
 
 #### Footer
 
@@ -102,6 +105,10 @@ When user open the app for the first time he has to signup to create his account
 - User can see the contact us link in the footer.
 
 ## Success Metrics
+
+- A user can add more than 20 tasks in a week.
+- More than 1000+ basic users
+- More than 20+ premium users.
 
 ## Timeline
 
